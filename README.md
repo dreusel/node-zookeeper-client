@@ -1,4 +1,5 @@
 # node-zookeeper-client
+This is a fork of https://github.com/alexguan/node-zookeeper-client, which seems to no longer be maintained, with support for container nodes added and a few long-standing pull requests merged.
 
 A pure Javascript [ZooKeeper](http://zookeeper.apache.org) client module for
 [Node.js](http://nodejs.org).
